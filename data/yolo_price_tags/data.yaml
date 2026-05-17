@@ -1,0 +1,5 @@
+path: C:/hackaton/data/yolo_price_tags
+train: images/train
+val: images/val
+names:
+  0: price_tag
