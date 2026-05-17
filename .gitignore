@@ -1,3 +1,6 @@
 runs
 yolo26n.pt
 yolov8n.pt
+.yolo_config/
+scripts/__pycache__/
+lenta_cv/__pycache__/
